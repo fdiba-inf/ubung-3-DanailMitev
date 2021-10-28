@@ -24,5 +24,5 @@ public class AngleCalculation {
             System.out.println("Angle: " + newAngle + "r");
           }
         } while (type == 'd' || type == 'r');
-    }
-}
+     }
+ }
